@@ -23,6 +23,5 @@ public class TimeFormat {
 		System.out.print(":"+ minutes);	
 	}
 	System.out.print(" " + period);
-	
 }
 }
